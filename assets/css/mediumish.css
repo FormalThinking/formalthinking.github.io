@@ -5,7 +5,7 @@ Version:1.0.1
 License: https://www.wowthemes.net/freebies-license/
 */
 body {
-	font-family: "Playfair Display", Playfair Display, Times, serif;
+	font-family: "Playfair Display", Playfair Display, "Times New Roman", Times, serif;
 	text-align: center;
 	padding-top:5rem;
 	background-color: #FFFAFA;
@@ -222,7 +222,7 @@ span.post-name a,span.post-read-more a:hover {
 	margin-right:5px;
 }
 .mainheading h1.sitetitle {
-	font-family:Playfair Display;
+	font-family: "Playfair Display", Playfair Display, "Times New Roman", Times, serif;
 }
 .mainheading h1.posttitle {
 	font-weight:700;
@@ -240,7 +240,7 @@ span.post-name a,span.post-read-more a:hover {
 	color:rgba(0,0,0,.8);
 }
 .article-post {
-	font-family:Playfair Display;
+	font-family: "Playfair Display", Playfair Display, "Times New Roman", Times, serif;
 	font-size:1.2rem;
 	line-height:1.8;
 	color:rgba(0,0,0,.8);
